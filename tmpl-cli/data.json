@@ -1,0 +1,7 @@
+{
+  "name": "tmpl_cli_example",
+  "myname": "qa3",
+  "version": "0.0.1",
+  "description": "desc example",
+  "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+}
