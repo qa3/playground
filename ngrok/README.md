@@ -13,7 +13,6 @@ install http-server
   $ npm i -g http-server
   $ http-server
   $ open localhost:8080
-
 ```
 
 ---
@@ -44,7 +43,6 @@ install ngrok
 
 ```shellscript
   $ npm i -g ngrok
-
 ```
 
 run ngrok
@@ -53,6 +51,5 @@ run ngrok
   $ ngrok http 8080
   or
   $ ngrok http 3474
-
 ```
 
